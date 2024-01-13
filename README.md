@@ -1,6 +1,6 @@
 # Mini portfolio page
 
-This is a project to the [Mini portfolio project page](https://rafaelsanm.github.io/pokemon-page/).  
+This is a project to the [Mini portfolio project page](https://rafaelsanm.github.io/mini-portfolio-page/).  
 
 As most of my work, this solution is being constantly updated as I learn new things and find better solutions for my problems, so please, take this into consideration!
 
